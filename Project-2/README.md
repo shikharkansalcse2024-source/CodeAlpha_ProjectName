@@ -1,4 +1,4 @@
-# Project 4 — FAQ Chatbot for E-commerce
+# Project 2 — FAQ Chatbot for E-commerce
 
 > NLP-powered FAQ chatbot using TF-IDF vectorization and cosine similarity with a Streamlit chat UI
 
