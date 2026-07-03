@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What are your delivery charges?",
+    "answer": "We offer free delivery on orders above $50. Orders below $50 have a flat delivery charge of $5."
+  },
+  {
+    "question": "How long does shipping take?",
+    "answer": "Shipping usually takes 3-5 business days for domestic orders."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return any item within 30 days of delivery for a full refund, as long as it is unused and in original packaging."
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "Once your order ships, you will receive a tracking link via email and SMS to monitor your delivery status."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders under $200 in select locations."
+  },
+  {
+    "question": "How can I cancel my order?",
+    "answer": "You can cancel your order within 1 hour of placing it by going to 'My Orders' and selecting 'Cancel Order'."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit cards, debit cards, UPI, net banking, and popular digital wallets."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Yes, we ship to over 50 countries. International delivery typically takes 7-14 business days."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our customer support team via email at support@store.com or call us at 1-800-555-0199, available 9 AM to 9 PM."
+  },
+  {
+    "question": "Do you offer discounts for first-time buyers?",
+    "answer": "Yes! First-time buyers get 10% off their first order using the code WELCOME10 at checkout."
+  }
+]
